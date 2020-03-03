@@ -23,7 +23,7 @@ ser = serial.Serial()
 
 # Function for printing debug message 
 def debug_print(message):
-	print(message)
+	pass
 
 # Function for getting time as miliseconds
 def millis():
